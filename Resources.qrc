@@ -1,0 +1,12 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="resources">
+        <file alias="Wallpaper.jpg">Wallpaper.jpg</file>
+        <file alias="AI_Volved.ico">AI_Volved.ico</file>
+        <file alias="TransmitWallpaper.jpg">TransmitWallpaper.jpg</file>
+        <file alias="electricity_13643.ico">electricity_13643.ico</file>
+    </qresource>
+</RCC>
+
+
+<!--Pyrcc5 Resources.qrc -o Resources.py -->
